@@ -1,0 +1,6 @@
+Patrat 2
+Cerc 3
+Dreptunghi 2 4
+Cerc 1
+Eroare 2
+Patrat 6
